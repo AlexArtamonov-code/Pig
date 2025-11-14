@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Pig
-//
-//  Created by Alex Artamonov on 11/6/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
